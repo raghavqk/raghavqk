@@ -56,13 +56,5 @@
 | [💰 Cashlytics](https://github.com/raghavqk/cashlytics) | Financial management web app with smart budgeting and analytics | React · Node.js · MongoDB | ✅ Complete |
 
 
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-![Raghav's GitHub Stats](https://github-readme-stats.vercel.app/api?username=raghavqk&show_icons=true&theme=tokyonight&hide_border=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=raghavqk&layout=compact&theme=tokyonight&hide_border=true)
 
 </div>
