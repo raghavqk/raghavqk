@@ -3,8 +3,8 @@
 # Hey, I'm Raghav Ahuja 👋
 ### Computer Engineering Student · TSEC Mumbai · Building AI-powered tools
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_LINKEDIN)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=github&logoColor=white)](https://YOUR_USERNAME.github.io)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/raghav-ahuja0809/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=github&logoColor=white)](https://raghavqk.github.io)
 
 </div>
 
@@ -52,9 +52,9 @@
 
 | Project | Description | Stack | Status |
 |---------|-------------|-------|--------|
-| [🎮 GameSense AI](https://github.com/YOUR_USERNAME/gamesense-ai) | AI-powered gaming performance coach using YOLOv8, DBSCAN, RandomForest & NLP | React · FastAPI · PyTorch | 🚧 Active |
-| [💰 Cashlytics](https://github.com/YOUR_USERNAME/cashlytics) | Financial management web app with smart budgeting and analytics | React · Node.js · MongoDB | ✅ Complete |
-| [💪 YouFit](https://github.com/YOUR_USERNAME/youfit) | AI fitness tracking and workout recommendation platform | React · Python · ML | ✅ Complete |
+| [🎮 GameSense AI](https://github.com/raghavqk/gamesense-ai) | AI-powered gaming performance coach using YOLOv8, DBSCAN, RandomForest & NLP | React · FastAPI · PyTorch | 🚧 Active |
+| [💰 Cashlytics](https://github.com/raghavqk/cashlytics) | Financial management web app with smart budgeting and analytics | React · Node.js · MongoDB | ✅ Complete |
+
 
 ---
 
@@ -62,7 +62,7 @@
 
 <div align="center">
 
-![Raghav's GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true)
+![Raghav's GitHub Stats](https://github-readme-stats.vercel.app/api?username=raghavqk&show_icons=true&theme=tokyonight&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=raghavqk&layout=compact&theme=tokyonight&hide_border=true)
 
 </div>
