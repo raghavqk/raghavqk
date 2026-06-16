@@ -12,8 +12,7 @@
 
 ## 🚀 About Me
 
-- 🎓 B.E. Computer Engineering — Thadomal Shahani Engineering College, University of Mumbai (2026)
-- 🔭 Currently building **GameSense AI** — an AI-powered gaming performance coach
+- 🎓 B.E. Computer Engineering — Thadomal Shahani Engineering College, University of Mumbai 
 - 🧠 Interested in AI/ML, Computer Vision and Full-Stack Development
 - 📍 Mumbai, India
 
