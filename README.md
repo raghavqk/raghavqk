@@ -65,7 +65,7 @@
 
 ## 📌 Featured Projects
 
-| Project | Description | Stack | Status |
-|---------|-------------|-------|--------|
-| [🎮 GameSense AI](https://github.com/raghavqk/gamesense-ai) | AI-powered gaming performance coach — YOLOv8 object detection, DBSCAN spatial clustering, RandomForest/LSTM for playstyle & trend analysis, with an LLM coaching layer for personalized feedback | React · FastAPI · PyTorch · Groq | 🚧 Active |
-| [💰 Cashlytics](https://github.com/raghavqk/cashlytics) | Full-stack personal finance tracker with 20+ modules for budgeting, expense tracking, and smart analytics | React · Node.js · MongoDB | ✅ Complete |
+| Project | Highlights | Tech Stack | Links |
+|---|---|---|---|
+| **🎮 GameSense AI** | **AI-powered gaming performance coach** for CS2, VALORANT & Apex Legends<br>• CV pipeline — YOLOv8 detection + DBSCAN spatial clustering<br>• ML layer — RandomForest playstyle classification + LSTM trend forecasting<br>• LLM coaching layer (Groq LLaMA 3) for personalized feedback<br>🚧 *Active development* | ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=flat-square&logo=fastapi) ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white) ![Groq](https://img.shields.io/badge/Groq-F55036?style=flat-square&logo=groq&logoColor=white) | [![Code](https://img.shields.io/badge/Code-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/raghavqk/gamesense-ai) |
+| **💰 Cashlytics** | **Full-stack personal finance tracker**<br>• 20+ modules — budgeting, expense tracking & analytics<br>• Smart budgeting & insights engine<br>✅ *Complete* | ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB) ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white) | [![Code](https://img.shields.io/badge/Code-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/raghavqk/cashlytics) |
