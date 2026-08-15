@@ -2,23 +2,23 @@
 
 # Hi there, I'm Raghav Ahuja! 👋
 
-### **AI/ML Engineer & GenAI Systems Architect**
-*Specializing in Low-Latency RAG Pipelines, Agentic Workflows, and Computer Vision*
+### **AI/ML Engineer | GenAI & Software Engineering**
+*Building RAG systems, agentic workflows, and intelligent software systems*
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/raghav-ahuja0809/)
-[![Portfolio & GitHub](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/raghavqk)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/raghavqk)
 
 </div>
 
 ---
 
 ## 🚀 About Me
+
 - 🎓 **B.E. Computer Engineering (Pre-Final Year)** — Thadomal Shahani Engineering College, University of Mumbai
-- 🧠 Deeply committed to **AI Engineering**, focusing on high-performance **LLMs, complex RAG architectures, and autonomous agentic workflows**
-- ⚡ **Recent Highlight:** Engineered **[DocMind](https://github.com/raghavqk/DocMind)**, an advanced conversational RAG platform featuring non-blocking background workers, single-call JSON inference, and empirical L2 distance hallucination defense
-- 🎮 Currently building **[GameSense AI](https://github.com/raghavqk/gamesense-ai)** — an AI-powered gaming performance coach combining computer vision (YOLOv8), classical ML, and generative coaching layers
-- 📚 Continuous learning: *PyTorch for Deep Learning* (DeepLearning.AI) & Advanced Vector Retrieval System Design
-- 🎯 **Actively seeking summer AI / ML / GenAI Internships and research roles**
+- 🧠 Focused on **AI Engineering**, with an emphasis on **LLMs, RAG architectures, agentic workflows, and applied machine learning**
+- ⚡ **Recent Highlight:** Engineered **[DocMind](https://github.com/raghavqk/DocMind)**, a conversational RAG platform featuring asynchronous processing, structured LLM inference, vector retrieval diagnostics, and page-level citations
+- 📚 Continuously learning **PyTorch, deep learning, vector retrieval, and modern AI system design**
+- 🎯 **Actively seeking AI / ML / GenAI internships and research opportunities**
 - 📍 Mumbai, India
 
 ---
@@ -70,10 +70,27 @@
 ---
 
 ## 📌 Featured AI & Software Systems
+
 | Project | Highlights | Tech Stack | Links |
 |---|---|---|:---:|
-| **[🧠 DocMind AI](https://github.com/raghavqk/DocMind)** | **AI Document Intelligence & Conversational RAG Engine**<br>• **Non-Blocking Architecture:** Asynchronous Python worker summarization threads with local ChromaDB vector persistence.<br>• **Ultra-Low Latency:** 50% inference latency reduction via Groq LLaMA 3.3 70B structured JSON generation.<br>• **Hallucination Defense:** Real-time Euclidean distance ($L_2$) retrieval diagnostics with transparent user status badges.<br>• **Rolling Memory & UI:** Notion-inspired dual-column workspace, exact page-level citations, and automated follow-up chip prediction.<br>⭐ *Featured Project* | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=flat-square&logo=fastapi&logoColor=white) ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white) ![ChromaDB](https://img.shields.io/badge/ChromaDB-FF6F00?style=flat-square&logo=database&logoColor=white) ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB) ![Groq](https://img.shields.io/badge/Groq-F55036?style=flat-square&logo=groq&logoColor=white) | [![Code](https://img.shields.io/badge/Code-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/raghavqk/DocMind) |
-| **[🎮 GameSense AI](https://github.com/raghavqk/gamesense-ai)** | **AI-powered gaming performance coach** for CS2, VALORANT & Apex Legends<br>• **CV Pipeline:** YOLOv8 bounding object detection + DBSCAN spatial cluster trajectory tracking.<br>• **ML Layer:** Random Forest playstyle classification + LSTM recurrent tendency forecasting.<br>• **Generative Coaching:** Groq LLaMA 3 integrated feedback loop generating personalized competitive adjustments.<br>🚧 *Active development* | ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=flat-square&logo=fastapi&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white) ![Groq](https://img.shields.io/badge/Groq-F55036?style=flat-square&logo=groq&logoColor=white) | [![Code](https://img.shields.io/badge/Code-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/raghavqk/gamesense-ai) |
+| **[🧠 DocMind AI](https://github.com/raghavqk/DocMind)** | **AI Document Intelligence & Conversational RAG Engine**<br>• **Non-Blocking Architecture:** Asynchronous Python worker processing with local ChromaDB vector persistence.<br>• **Low-Latency Inference:** Optimized LLM inference using Groq LLaMA 3.3 70B structured JSON generation.<br>• **Retrieval Diagnostics:** Real-time Euclidean distance ($L_2$) retrieval diagnostics for transparency around retrieved context.<br>• **Rolling Memory & UI:** Notion-inspired dual-column workspace, page-level citations, and automated follow-up suggestions.<br>⭐ *Featured Project* | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=flat-square&logo=fastapi&logoColor=white) ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white) ![ChromaDB](https://img.shields.io/badge/ChromaDB-FF6F00?style=flat-square&logo=database&logoColor=white) ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB) ![Groq](https://img.shields.io/badge/Groq-F55036?style=flat-square&logo=groq&logoColor=white) | [![Code](https://img.shields.io/badge/Code-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/raghavqk/DocMind) |
 | **[💰 Cashlytics](https://github.com/raghavqk/cashlytics)** | **Full-stack personal finance engineering tool & analytics dashboard**<br>• **20+ Specialized Modules:** Granular budgeting, automated expense categorization, and wealth trajectory analytics.<br>• **Insights Engine:** Automated statistical heuristics monitoring account health and spending deviations.<br>✅ *Complete* | ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB) ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white) | [![Code](https://img.shields.io/badge/Code-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/raghavqk/cashlytics) |
 
 ---
+
+## 📊 What I'm Currently Exploring
+
+- 🤖 **Large Language Models & GenAI**
+- 🔎 **Advanced RAG & Vector Retrieval**
+- 🧩 **Agentic AI Workflows**
+- 🧠 **Deep Learning with PyTorch**
+- ⚡ **High-performance AI inference**
+- 🏗️ **Scalable AI backend architectures**
+
+---
+
+## 🤝 Connect With Me
+
+I'm interested in collaborating on **AI/ML, GenAI, computer vision, backend engineering, and intelligent software systems**.
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/raghav-ahuja0809/)
