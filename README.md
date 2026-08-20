@@ -14,7 +14,7 @@
 
 ## 🚀 About Me
 
-- 🎓 **B.E. Computer Engineering (Pre-Final Year)** — Thadomal Shahani Engineering College, University of Mumbai
+- 🎓 **B.E. Computer Engineering (Final Year)** — Thadomal Shahani Engineering College, University of Mumbai
 - 🧠 Focused on **AI Engineering**, with an emphasis on **LLMs, RAG architectures, agentic workflows, and applied machine learning**
 - ⚡ **Recent Highlight:** Engineered **[DocMind](https://github.com/raghavqk/DocMind)**, a conversational RAG platform featuring asynchronous processing, structured LLM inference, vector retrieval diagnostics, and page-level citations
 - 📚 Continuously learning **PyTorch, deep learning, vector retrieval, and modern AI system design**
